@@ -1,2 +1,1 @@
-# MAlgorithmList
-all algorithm
+# algorithm
